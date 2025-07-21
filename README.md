@@ -24,6 +24,6 @@ Just type commands starting with `bbny` followed by your instruction, for exampl
 
 ```bash
 bbny list          # List all available packages
-bbny install <pkg> # Install a package by name
+bbny install <package> # Install a package by name
 bbny help          # Show help information
 bbny exit          # Exit the CLI
