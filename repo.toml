@@ -1,9 +1,4 @@
-[notepad]
+[KeroEnvelope]
 version = "1.0.0"
-description = "Simple Notepad app"
-url = "https://yourdomain.com/files/notepad.zip"
-
-[paint]
-version = "2.1.0"
-description = "MS Paint clone"
-url = "https://yourdomain.com/files/paint.exe"
+description = "KeroEnvelope is a file encryption and decryption tool using the .keef format."
+url = "https://github.com/LOVJOVI/Bbunnyy/releases/download/v1.0/KeroEnvelope.exe"
