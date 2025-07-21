@@ -1,6 +1,6 @@
 # Bbunnyy
 
-> Your lightweight, fast, and customizable CLI package manager
+> Your lightweight and fast CLI package manager
 
 Welcome to **Bbunnyy**, the intuitive command-line tool that empowers you to manage your software installations easily and efficiently — directly from your own curated repository on GitHub.
 
