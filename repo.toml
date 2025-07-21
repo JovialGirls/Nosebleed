@@ -1,0 +1,9 @@
+[notepad]
+version = "1.0.0"
+description = "Simple Notepad app"
+url = "https://yourdomain.com/files/notepad.zip"
+
+[paint]
+version = "2.1.0"
+description = "MS Paint clone"
+url = "https://yourdomain.com/files/paint.exe"
