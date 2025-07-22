@@ -1,20 +1,16 @@
-# Bbunnyy
+# Bbunnyy v1.0
 
-> Your lightweight and fast CLI package manager
+<img width="200" height="200" alt="Bbunnyy CLI" src="https://github.com/user-attachments/assets/8fd40858-6926-441e-a471-be5765d684b8" />
 
-Welcome to **Bbunnyy**, the intuitive command-line tool that empowers you to manage your software installations easily and efficiently — directly from your own curated repository on GitHub.
+A simple and lightweight Python CLI package manager to easily install `.exe` apps from my GitHub repo.
 
----
+Designed for anyone who wants a hassle-free way to manage and install my apps.
 
-## Features
+- Clean and easy-to-use interface  
+- Package info managed with TOML files  
+- Minimal dependencies for smooth performance  
 
-- Simple, elegant CLI interface with rich text styling  
-- Manage your custom repository with `.toml` manifest files  
-- Download and install `.exe` packages directly via commands  
-- Clean and easy-to-read command list and help system  
-- Terminal window title set for better UX  
-- Lightweight, no external heavy dependencies except essential Python libraries  
-- Fetch and update your package index dynamically from GitHub
+Enjoy using Bbunnyy!
 
 ---
 
