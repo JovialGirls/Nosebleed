@@ -1,6 +1,6 @@
 # 🔴 Nosebleed v1.0
 
-<img width="200" height="200" alt="Bbunnyy CLI" src="https://github.com/user-attachments/assets/8fd40858-6926-441e-a471-be5765d684b8" />
+<img width="200" height="200" alt="Bbunnyy CLI" src="https://iili.io/FOlhakX.png" />
 
 **Nosebleed** is a simple, lightweight Python-based CLI package manager that lets you install `.exe` apps directly from my GitHub repo with ease.
 
