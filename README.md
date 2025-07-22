@@ -6,6 +6,14 @@
 
 Perfect for anyone who wants a no-fuss way to explore, install, and manage my projects.
 
+<p align="left" style="font-size:18px; font-weight:700; background-color:#0078d7; color:white; padding:6px 12px; border-radius:6px; display: inline-block;">
+  Only on Windows
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Windows_icon_logo.png" alt="Windows Logo" width="24" height="24" style="vertical-align:middle; margin-left:8px;" />
+</p>
+
+
+
+
 ---
 
 ## ✨ Features
