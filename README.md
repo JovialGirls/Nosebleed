@@ -1,4 +1,4 @@
-# 🔴 Nosebleed v1.0
+# 🔴 Nosebleed
 
 <img width="200" height="200" alt="Nosebleed CLI" src="https://iili.io/FOlhakX.png" />
 
