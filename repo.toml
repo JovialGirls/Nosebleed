@@ -2,3 +2,8 @@
 version = "1.0"
 description = "KeroEnvelope is a file encryption and decryption tool using the .keef format."
 url = "https://github.com/LOVJOVI/Bbunnyy/releases/download/v1.0/KeroEnvelope.exe"
+
+[bnyfiles]
+version = "1.0"
+description = "bnyfiles copies files and folders with a simple, clean interface."
+url = "https://github.com/LOVJOVI/Nosebleed/releases/download/Apps/bnyfiles.exe"
