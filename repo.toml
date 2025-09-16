@@ -12,3 +12,9 @@ url = "https://github.com/LOVJOVI/Nosebleed/releases/download/Apps/bnyfiles.exe"
 version = "1.0"
 description = "Blackberry is a wishlist-like program, where you can also include a link to save your stuff."
 url = "https://github.com/JovialGirls/Nosebleed/releases/download/App_BLCKBv1.0/Blackberry.exe"
+
+[portableapps-test]
+version = "1.0"
+description = "test for me"
+url = "https://github.com/JovialGirls/Nosebleed/releases/download/test/apps-folder.zip"
+
