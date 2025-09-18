@@ -15,7 +15,7 @@ if ($dialog.ShowDialog() -ne "OK") {
 $dir = $dialog.SelectedPath
 
 # Download Nosebleed executable (change URL as needed)
-$url = "https://github.com/LOVJOVI/Nosebleed/releases/latest/download/Nosebleed.exe"
+$url = "https://github.com/JovialGirls/Nosebleed/releases/download/NoseBleedReleases/Nosebleed.zip"
 $exePath = Join-Path $dir "Nosebleed.exe"
 
 Write-Host "⬇ Downloading Nosebleed.exe to $exePath ..."
