@@ -8,3 +8,7 @@ version = "1.0"
 description = "bnyfiles copies files and folders with a simple, clean interface."
 url = "https://github.com/JovialGirls/Nosebleed/releases/download/App_BNYv1.0/bnyfiles.exe"
 
+[ktt]
+version = "1.0"
+description = "koto wants to play"
+url = "https://github.com/JovialGirls/Nosebleed/releases/download/APP_kttv1.0/ktt.zip"
