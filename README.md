@@ -2,6 +2,11 @@
 
 <img width="200" height="200" alt="Nosebleed CLI" src="https://iili.io/FOlhakX.png" />
 
+
+> [!WARNING]
+> Nosebleed will not be maintained anymore, and it will be discontinued. It's repository will still be available, but will not be updated.
+
+
 **Nosebleed** is a simple, lightweight Python-based CLI package manager that lets you easily install `.exe` applications directly from my GitHub repository.
 
 Perfect for anyone looking for a no-fuss way to explore, install, and manage my projects on Windows.
